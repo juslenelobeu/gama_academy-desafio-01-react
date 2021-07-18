@@ -6,12 +6,14 @@
   <img align="center" src="https://raw.githubusercontent.com/juslenelobeu/gama_academy-desafio-01-react/master/public/screenshot.png" width="100%">
 
   <h1>Landing page - Versão React</h1>
+  <p>Landing page de um e-commerce para divulgação da black friday e captura de lead.</p>
   <p>Projeto proposto pela Gama Academy durante o programa Hiring Coders 🚀</p>
-  <h2>🔖&ensp;Sobre Projeto</h2>
-  <p>Primeiro desafio proposto pela Gama Academy durante o programa Hiring Coders, onde nossa missão seria criar uma landing page com a divulgação da black friday e formulário para captura de lead.</p>
   <h3>Link do projeto: <a href="https://landing-page-hc-juslenelobeu.netlify.app/" target="_blank">preview</a></h3>
 </div>
-<hr>
+
+<h2>📚&ensp;Sobre Projeto</h2>
+  <p>Primeiro desafio proposto pela Gama Academy durante o programa Hiring Coders, onde nossa missão seria criar uma landing page com a divulgação da black friday e formulário para captura de lead.</p>
+  
 <h3>🚀&ensp;Tecnologias</h3>
 <ul>
   <li><a href="https://pt-br.reactjs.org/">React</a></li>
@@ -27,6 +29,9 @@
   <li>[x] Aplicação de alerta personalizado com o componente <code>react-toastify</code></li>
   <li>[x] Inclusão de verificação na página de confirmação de cadastro para ser acessada somente após o cadastro</li>
 </ul>
+
+<h3>🔖&ensp; Outras versões</h3>
+Versão: <a href="https://github.com/juslenelobeu/gama_academy-desafio-01-javascript-puro" target="_blank">JavaScript puro</a>
 
 <h3>👩🏻‍💻&ensp;Autora</h3>
 <a href="https://juslenelobeudesigner.com.br/">
