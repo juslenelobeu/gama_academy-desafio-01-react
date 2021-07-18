@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const Form = styled.div`
+export const Form = styled.form`
   & h2 {
     & img {
       margin-right: 0.5rem;

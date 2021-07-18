@@ -1,19 +1,10 @@
-import Headline from "./sections/Headline";
-import Product from "./sections/Product";
-import DetailsProduct from "./sections/DetailsProduct";
-import Footer from "./sections/Footer";
+import React from "react";
+import Route from "./routes";
 
 import "./assets/css/global.css";
 
 function App() {
-  return (
-    <>
-      <Headline />
-      <Product />
-      <DetailsProduct />
-      <Footer />
-    </>
-  );
+  return <Route />;
 }
 
 export default App;
