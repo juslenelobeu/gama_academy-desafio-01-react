@@ -8,7 +8,6 @@
   <p>Projeto proposto pela Gama Academy durante o programa Hiring Coders 🚀</p>
   <h2>🔖&ensp;Sobre Projeto</h2>
   <p>Primeiro desafio proposto pela Gama Academy durante o programa Hiring Coders, onde nossa missão seria criar uma landing page com a divulgação da black friday e formulário para captura de lead.</p>
-  <p>Esta é a versão 2, criada em ReactJS.</p>
 <!--   <h3>Link do projeto: <a href="" target="_blank">preview</a></h3> -->
 </div>
 <hr>
@@ -22,10 +21,10 @@
 
 <h3>✨&ensp;Features</h3>
 <ul>
-  <li>Verificação se o campo nome e email foram preenchido</li>
-  <li>Validação do campo email com regex</li>
-  <li>Aplicação de alerta personalizado com o componente <code>react-toastify</code></li>
-  <li>Inclusão de verificação na página de confirmação de cadastro para ser acessada somente após o cadastro</li>
+  <li>[x] Verificação se os campos nome e email foram preenchidos</li>
+  <li>[x] Validação do campo email com regex</li>
+  <li>[x] Aplicação de alerta personalizado com o componente <code>react-toastify</code></li>
+  <li>[x] Inclusão de verificação na página de confirmação de cadastro para ser acessada somente após o cadastro</li>
 </ul>
 
 <h3>👩🏻‍💻&ensp;Autora</h3>
