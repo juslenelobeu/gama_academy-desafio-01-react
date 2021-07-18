@@ -1,6 +1,7 @@
 <div align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/juslenelobeu/gama_academy-desafio-01-react?style=flat-square">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/juslenelobeu/gama_academy-desafio-01-react?style=flat-square">
+  <a href="https://app.netlify.com/sites/landing-page-hc-juslenelobeu/deploys"><img alt="GitHub last commit" src="https://api.netlify.com/api/v1/badges/eedb5d8e-13d7-42b3-94fd-26afd45eadf3/deploy-status"></a>
 
   <img align="center" src="https://raw.githubusercontent.com/juslenelobeu/gama_academy-desafio-01-react/master/public/screenshot.png" width="100%">
 
@@ -8,7 +9,7 @@
   <p>Projeto proposto pela Gama Academy durante o programa Hiring Coders 🚀</p>
   <h2>🔖&ensp;Sobre Projeto</h2>
   <p>Primeiro desafio proposto pela Gama Academy durante o programa Hiring Coders, onde nossa missão seria criar uma landing page com a divulgação da black friday e formulário para captura de lead.</p>
-<!--   <h3>Link do projeto: <a href="" target="_blank">preview</a></h3> -->
+  <h3>Link do projeto: <a href="https://landing-page-hc-juslenelobeu.netlify.app/" target="_blank">preview</a></h3>
 </div>
 <hr>
 <h3>🚀&ensp;Tecnologias</h3>
