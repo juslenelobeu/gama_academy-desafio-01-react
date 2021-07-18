@@ -27,6 +27,10 @@ export default function Form() {
       const lead = JSON.stringify(user);
       localStorage.setItem("lead", lead);
     }
+    setUser({
+      name: "",
+      email: "",
+    });
   };
 
   return (
@@ -44,6 +48,7 @@ export default function Form() {
             id="name"
             autoComplete="name"
             required
+            value={user.name}
             onChange={handleInputChange}
           />
           <S.Input
@@ -53,6 +58,7 @@ export default function Form() {
             id="email"
             autoComplete="username"
             required
+            value={user.email}
             onChange={handleInputChange}
           />
           <Button type="submit" onClick={handleSubmit}>

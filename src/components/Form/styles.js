@@ -6,6 +6,9 @@ export const Form = styled.div`
       margin-right: 0.5rem;
     }
   }
+  & input {
+    font-weight: 400;
+  }
 
   @media screen and (max-width: 767px) {
     flex-direction: column;

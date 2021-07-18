@@ -39,6 +39,7 @@ export const Content = styled.div`
     }
   }
   @media screen and (max-width: 767px) {
+    height: 90vh;
     & h1 {
       font-size: 1.5rem;
       margin-top: 4rem;

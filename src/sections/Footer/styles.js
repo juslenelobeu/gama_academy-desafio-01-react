@@ -26,9 +26,9 @@ export const Footer = styled.div`
     gap: 0.5rem;
   }
   @media screen and (max-width: 767px) {
+    height: 10vh;
     flex-direction: column;
     gap: 0.5rem;
-    height: 10vh;
   }
   @media screen and (max-width: 425px) {
     height: 15vh;
